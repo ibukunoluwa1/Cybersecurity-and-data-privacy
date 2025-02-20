@@ -1,4 +1,0 @@
-flask
-django
-requests
-beautifulsoup4
